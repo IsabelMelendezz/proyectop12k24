@@ -11,8 +11,6 @@ class Alumno
 
         SetAlumno(string nombre,int edad)
         {
-            this->edad = edad;
-            this->nombre = nombre;
         }
 
     protected:
@@ -22,5 +20,3 @@ class Alumno
         int edad ;
 
 };
-
-#endif // ALUMNO_H
