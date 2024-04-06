@@ -11,7 +11,7 @@ class Alumno
 
         SetAlumno(string nombre,int edad)
         {
-
+            //Cuerpo de la clase
         }
 
     protected:
