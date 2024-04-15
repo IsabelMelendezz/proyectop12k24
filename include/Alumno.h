@@ -1,22 +1,17 @@
 #ifndef ALUMNO_H
 #define ALUMNO_H
 
-using namespace std;
+
+#include<iostream>
+
+
+using std::string;
 
 class Alumno
 {
     public:
-        Alumno();
-        virtual ~Alumno();
-
-        SetAlumno(string nombre,int edad)
-        {
-        }
-
-    protected:
-
-    private:
-        string nombre ;
-        int edad ;
+		void menu();
 
 };
+
+#endif // ALUMNO_H
