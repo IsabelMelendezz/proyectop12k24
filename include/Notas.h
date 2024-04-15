@@ -1,16 +1,21 @@
 #ifndef NOTAS_H
 #define NOTAS_H
 
+#include <iostream>
+#include <fstream>
 
-class Notas
+class notas
 {
-    public:
-        Notas();
-        virtual ~Notas();
+private:
+    std::string carnet, curso, calificacion;
 
-    protected:
-
-    private:
+public:
+    void menu();
+    void insertar();
+    void mostrar();
+    void modificar();
+    void buscar();
+    void borrar();
 };
 
 #endif // NOTAS_H
