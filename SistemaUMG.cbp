@@ -36,15 +36,37 @@
 		</Compiler>
 		<Unit filename="include/Alumno.h" />
 		<Unit filename="include/Asignacion .h" />
+		<Unit filename="include/AsignacionAlumnos.h" />
+		<Unit filename="include/AsignacionFacultades.h" />
+		<Unit filename="include/AsignacionMaestros.h" />
+		<Unit filename="include/Cursos.h" />
+		<Unit filename="include/Facultades.h" />
+		<Unit filename="include/Gestion financiera.h" />
+		<Unit filename="include/Jornadas.h" />
 		<Unit filename="include/Maestro.h" />
+		<Unit filename="include/Maestros.h" />
 		<Unit filename="include/Notas.h" />
 		<Unit filename="include/Tesoreria.h" />
+		<Unit filename="include/aplicaciones.h" />
+		<Unit filename="include/bitacora.h" />
+		<Unit filename="include/usuarios.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Alumno.cpp" />
 		<Unit filename="src/Asignacion .cpp" />
+		<Unit filename="src/AsignacionAlumnos.cpp" />
+		<Unit filename="src/AsignacionFacultades.cpp" />
+		<Unit filename="src/AsignacionMaestros.cpp" />
+		<Unit filename="src/Cursos.cpp" />
+		<Unit filename="src/Facultades.cpp" />
+		<Unit filename="src/Gestion financiera.cpp" />
+		<Unit filename="src/Jornadas.cpp" />
 		<Unit filename="src/Maestro.cpp" />
+		<Unit filename="src/Maestros.cpp" />
 		<Unit filename="src/Notas.cpp" />
 		<Unit filename="src/Tesoreria.cpp" />
+		<Unit filename="src/aplicaciones.cpp" />
+		<Unit filename="src/bitacora.cpp" />
+		<Unit filename="src/usuarios.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
