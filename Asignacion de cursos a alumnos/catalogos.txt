@@ -1,0 +1,5 @@
+78446|Andres Lopez|Fisica|Diaria|Hibrida|
+78446|Andres Lopez|Calculo I|Diaria|Hibrida|
+78446|Andres Lopez|Derecho I|Diaria|Hibrida|
+78446|Andres Lopez|Procesos Administrativos|Diaria|Hibrida|
+78446|Andres Lopez|Emprendedores de Negocios|Diaria|Hibrida|
