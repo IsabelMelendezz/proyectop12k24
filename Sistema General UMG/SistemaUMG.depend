@@ -1,0 +1,493 @@
+# depslib dependency file v1.0
+1713148602 source:c:\users\bdg.josue.villagran\documents\umg\proyecto final\proyectop12k24\src\alumno.cpp
+	"Alumno.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1713148602 c:\users\bdg.josue.villagran\documents\umg\proyecto final\proyectop12k24\include\alumno.h
+	<iostream>
+
+1713148797 c:\users\bdg.josue.villagran\documents\umg\proyecto final\proyectop12k24\include\bitacora.h
+	<iostream>
+
+1713148797 c:\users\bdg.josue.villagran\documents\umg\proyecto final\proyectop12k24\include\usuarios.h
+	<iostream>
+
+1713148602 source:c:\users\bdg.josue.villagran\documents\umg\proyecto final\proyectop12k24\src\aplicaciones.cpp
+	"aplicaciones.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1713148602 c:\users\bdg.josue.villagran\documents\umg\proyecto final\proyectop12k24\include\aplicaciones.h
+	<iostream>
+
+1713148360 source:c:\users\bdg.josue.villagran\documents\umg\proyecto final\proyectop12k24\src\asignacion .cpp
+	"Asignacion .h"
+
+1713148360 c:\users\bdg.josue.villagran\documents\umg\proyecto final\proyectop12k24\include\asignacion .h
+
+1713148797 source:c:\users\bdg.josue.villagran\documents\umg\proyecto final\proyectop12k24\src\asignacionalumnos.cpp
+	"AsignacionAlumnos.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1713148797 c:\users\bdg.josue.villagran\documents\umg\proyecto final\proyectop12k24\include\asignacionalumnos.h
+
+1713148797 source:c:\users\bdg.josue.villagran\documents\umg\proyecto final\proyectop12k24\src\asignacionfacultades.cpp
+	"AsignacionFacultades.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1713148797 c:\users\bdg.josue.villagran\documents\umg\proyecto final\proyectop12k24\include\asignacionfacultades.h
+	<iostream>
+
+1713148797 source:c:\users\bdg.josue.villagran\documents\umg\proyecto final\proyectop12k24\src\asignacionmaestros.cpp
+	"AsignacionMaestros.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1713148797 c:\users\bdg.josue.villagran\documents\umg\proyecto final\proyectop12k24\include\asignacionmaestros.h
+	<iostream>
+
+1713148797 source:c:\users\bdg.josue.villagran\documents\umg\proyecto final\proyectop12k24\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\main.cpp
+	<iostream>
+	<fstream>
+	"usuarios.h"
+	"Alumno.h"
+	"Maestros.h"
+	"Cursos.h"
+	"Jornadas.h"
+	"Facultades.h"
+	"Gestion financiera.h"
+	"bitacora.h"
+	"aplicaciones.h"
+	"notas.h"
+	"AsignacionAlumnos.h"
+	"AsignacionFacultades.h"
+	"AsignacionMaestros.h"
+
+1714363673 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\include\usuarios.h
+	<iostream>
+
+1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\include\alumno.h
+	<iostream>
+
+1714363673 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\include\maestros.h
+	<iostream>
+
+1714363673 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\include\cursos.h
+	<iostream>
+
+1714363673 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\include\jornadas.h
+	<iostream>
+
+1714363673 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\include\facultades.h
+	<iostream>
+
+1714363673 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\include\gestion financiera.h
+	<iostream>
+	<string>
+
+1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\include\bitacora.h
+	<iostream>
+
+1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\include\aplicaciones.h
+	<iostream>
+
+1714363673 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\include\notas.h
+	<iostream>
+	<fstream>
+
+1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\include\asignacionalumnos.h
+
+1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\include\asignacionfacultades.h
+	<iostream>
+
+1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\include\asignacionmaestros.h
+	<iostream>
+
+1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\src\alumno.cpp
+	"Alumno.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\src\aplicaciones.cpp
+	"aplicaciones.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\src\asignacion .cpp
+	"Asignacion .h"
+
+1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\include\asignacion .h
+
+1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\src\asignacionalumnos.cpp
+	"AsignacionAlumnos.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\src\asignacionfacultades.cpp
+	"AsignacionFacultades.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\src\asignacionmaestros.cpp
+	"AsignacionMaestros.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\src\cursos.cpp
+	"Cursos.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\src\facultades.cpp
+	"Facultades.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\src\gestion financiera.cpp
+	"Gestion financiera.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+	"aplicaciones.h"
+
+1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\src\jornadas.cpp
+	"Jornadas.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\src\maestro.cpp
+	"Maestro.h"
+
+1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\include\maestro.h
+
+1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\src\maestros.cpp
+	"Maestros.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\src\notas.cpp
+	"notas.h"
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\src\tesoreria.cpp
+	"Tesoreria.h"
+
+1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\include\tesoreria.h
+
+1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\src\usuarios.cpp
+	"usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"bitacora.h"
+
+1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\main.cpp
+	<iostream>
+	<fstream>
+	"usuarios.h"
+	"Alumno.h"
+	"Maestros.h"
+	"Cursos.h"
+	"Jornadas.h"
+	"Facultades.h"
+	"Gestion financiera.h"
+	"bitacora.h"
+	"aplicaciones.h"
+	"notas.h"
+	"AsignacionAlumnos.h"
+	"AsignacionFacultades.h"
+	"AsignacionMaestros.h"
+
+1714363673 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\usuarios.h
+	<iostream>
+
+1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\alumno.h
+	<iostream>
+
+1714363673 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\maestros.h
+	<iostream>
+
+1714363673 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\cursos.h
+	<iostream>
+
+1714363673 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\jornadas.h
+	<iostream>
+
+1714363673 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\facultades.h
+	<iostream>
+
+1714363673 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\gestion financiera.h
+	<iostream>
+	<string>
+
+1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\bitacora.h
+	<iostream>
+
+1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\aplicaciones.h
+	<iostream>
+
+1714363673 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\notas.h
+	<iostream>
+	<fstream>
+
+1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\asignacionalumnos.h
+
+1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\asignacionfacultades.h
+	<iostream>
+
+1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\asignacionmaestros.h
+	<iostream>
+
+1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\alumno.cpp
+	"Alumno.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\aplicaciones.cpp
+	"aplicaciones.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\asignacion .cpp
+	"Asignacion .h"
+
+1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\asignacion .h
+
+1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\asignacionalumnos.cpp
+	"AsignacionAlumnos.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\asignacionfacultades.cpp
+	"AsignacionFacultades.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\asignacionmaestros.cpp
+	"AsignacionMaestros.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\cursos.cpp
+	"Cursos.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\facultades.cpp
+	"Facultades.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\gestion financiera.cpp
+	"Gestion financiera.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+	"aplicaciones.h"
+
+1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\jornadas.cpp
+	"Jornadas.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\maestro.cpp
+	"Maestro.h"
+
+1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\maestro.h
+
+1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\maestros.cpp
+	"Maestros.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"usuarios.h"
+
+1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\notas.cpp
+	"notas.h"
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\tesoreria.cpp
+	"Tesoreria.h"
+
+1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\tesoreria.h
+
+1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\usuarios.cpp
+	"usuarios.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"bitacora.h"
+

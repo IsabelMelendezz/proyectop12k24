@@ -75,3 +75,41 @@
 	<algorithm>
 	<iomanip>
 
+1714363765 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\asignacion de cursos a alumnos\main.cpp
+	<iostream>
+	"usuario.h"
+	"catalogo.h"
+
+1714363765 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\asignacion de cursos a alumnos\include\usuario.h
+	<iostream>
+	<fstream>
+	<string>
+
+1714363765 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\asignacion de cursos a alumnos\include\catalogo.h
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1714363766 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\asignacion de cursos a alumnos\src\catalogo.cpp
+	"catalogo.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<vector>
+
+1714363766 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\asignacion de cursos a alumnos\src\usuario.cpp
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<vector>
+	<cstdlib>
+	<conio.h>
+	<algorithm>
+	<iomanip>
+
