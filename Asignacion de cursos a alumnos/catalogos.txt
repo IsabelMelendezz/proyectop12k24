@@ -6,19 +6,5 @@
 548255|Jose Gallardo|Fisica|Matutina|Virtual|
 548255|Jose Gallardo|Programacion I|Matutina|Virtual|
 548255|Jose Gallardo|Calculo I|Matutina|Virtual|
-4848|Pipo|Fisica|Matutina|Virtual|
-4848|Pipo|Calculo I|Matutina|Virtual|
-4848|Pipo|Programacion I|Matutina|Virtual|
-4848|Pipo|Derecho I|Matutina|Virtual|
-54854|Juan Molina|Fisica|Diaria|Hibrida|
-54854|Juan Molina|Calculo I|Diaria|Hibrida|
-54854|Juan Molina|Programacion I|Diaria|Hibrida|
-54854|Juan Molina|Derecho I|Diaria|Hibrida|
-456484|Maria|Fisica|Diaria|Hibrida|
-456484|Maria|Programacion I|Diaria|Hibrida|
-225417|Mailo gei|Fisica|Fin de semana|Hibrida|
-225417|Mailo gei|Derecho I|Fin de semana|Hibrida|
-14454|Florecita miamor|Fisica|Matutina|Virtual|
-14454|Florecita miamor|Programacion I|Matutina|Virtual|
-14454|Florecita miamor|Calculo I|Matutina|Virtual|
-14454|Florecita miamor|Derecho I|Matutina|Virtual|
+
+
