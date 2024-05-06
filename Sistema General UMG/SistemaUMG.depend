@@ -288,7 +288,7 @@
 	<iostream>
 	"bitacora.h"
 
-1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\main.cpp
+1714924771 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\main.cpp
 	<iostream>
 	<fstream>
 	"usuarios.h"
@@ -305,47 +305,47 @@
 	"AsignacionFacultades.h"
 	"AsignacionMaestros.h"
 
-1714363673 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\usuarios.h
+1714924771 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\usuarios.h
 	<iostream>
 
-1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\alumno.h
+1714924771 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\alumno.h
 	<iostream>
 
-1714363673 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\maestros.h
+1714924771 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\maestros.h
 	<iostream>
 
-1714363673 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\cursos.h
+1714924771 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\cursos.h
 	<iostream>
 
-1714363673 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\jornadas.h
+1714924771 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\jornadas.h
 	<iostream>
 
-1714363673 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\facultades.h
+1714924771 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\facultades.h
 	<iostream>
 
-1714363673 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\gestion financiera.h
+1714924771 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\gestion financiera.h
 	<iostream>
 	<string>
 
-1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\bitacora.h
+1714924771 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\bitacora.h
 	<iostream>
 
-1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\aplicaciones.h
+1714924771 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\aplicaciones.h
 	<iostream>
 
-1714363673 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\notas.h
+1714924771 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\notas.h
 	<iostream>
 	<fstream>
 
-1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\asignacionalumnos.h
+1714924771 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\asignacionalumnos.h
 
-1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\asignacionfacultades.h
+1714924771 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\asignacionfacultades.h
 	<iostream>
 
-1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\asignacionmaestros.h
+1714924771 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\asignacionmaestros.h
 	<iostream>
 
-1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\alumno.cpp
+1714924771 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\alumno.cpp
 	"Alumno.h"
 	"bitacora.h"
 	<iostream>
@@ -356,7 +356,7 @@
 	<iomanip>
 	"usuarios.h"
 
-1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\aplicaciones.cpp
+1714924771 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\aplicaciones.cpp
 	"aplicaciones.h"
 	"bitacora.h"
 	<iostream>
@@ -367,12 +367,12 @@
 	<iomanip>
 	"usuarios.h"
 
-1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\asignacion .cpp
+1714924771 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\asignacion .cpp
 	"Asignacion .h"
 
-1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\asignacion .h
+1714924771 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\asignacion .h
 
-1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\asignacionalumnos.cpp
+1714924771 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\asignacionalumnos.cpp
 	"AsignacionAlumnos.h"
 	<iostream>
 	<fstream>
@@ -382,7 +382,7 @@
 	<iomanip>
 	"usuarios.h"
 
-1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\asignacionfacultades.cpp
+1714924771 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\asignacionfacultades.cpp
 	"AsignacionFacultades.h"
 	<iostream>
 	<fstream>
@@ -392,7 +392,7 @@
 	<iomanip>
 	"usuarios.h"
 
-1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\asignacionmaestros.cpp
+1714924771 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\asignacionmaestros.cpp
 	"AsignacionMaestros.h"
 	<iostream>
 	<fstream>
@@ -402,7 +402,7 @@
 	<iomanip>
 	"usuarios.h"
 
-1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\bitacora.cpp
+1714924771 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\bitacora.cpp
 	"bitacora.h"
 	<iostream>
 	<fstream>
@@ -411,7 +411,7 @@
 	<conio.h>
 	<iomanip>
 
-1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\cursos.cpp
+1714924771 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\cursos.cpp
 	"Cursos.h"
 	"bitacora.h"
 	<iostream>
@@ -422,7 +422,7 @@
 	<iomanip>
 	"usuarios.h"
 
-1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\facultades.cpp
+1714924771 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\facultades.cpp
 	"Facultades.h"
 	"bitacora.h"
 	<iostream>
@@ -433,7 +433,7 @@
 	<iomanip>
 	"usuarios.h"
 
-1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\gestion financiera.cpp
+1714924771 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\gestion financiera.cpp
 	"Gestion financiera.h"
 	"bitacora.h"
 	<iostream>
@@ -445,7 +445,7 @@
 	"usuarios.h"
 	"aplicaciones.h"
 
-1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\jornadas.cpp
+1714924771 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\jornadas.cpp
 	"Jornadas.h"
 	"bitacora.h"
 	<iostream>
@@ -456,12 +456,12 @@
 	<iomanip>
 	"usuarios.h"
 
-1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\maestro.cpp
+1714924771 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\maestro.cpp
 	"Maestro.h"
 
-1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\maestro.h
+1714924771 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\maestro.h
 
-1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\maestros.cpp
+1714924771 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\maestros.cpp
 	"Maestros.h"
 	"bitacora.h"
 	<iostream>
@@ -472,18 +472,18 @@
 	<iomanip>
 	"usuarios.h"
 
-1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\notas.cpp
+1714924771 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\notas.cpp
 	"notas.h"
 	<cstdlib>
 	<conio.h>
 	<iomanip>
 
-1714363083 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\tesoreria.cpp
+1714924771 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\tesoreria.cpp
 	"Tesoreria.h"
 
-1714363083 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\tesoreria.h
+1714924771 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\include\tesoreria.h
 
-1714363673 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\usuarios.cpp
+1714924771 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\proyecto final programacion\sistema general umg\src\usuarios.cpp
 	"usuarios.h"
 	<fstream>
 	<cstdlib>
